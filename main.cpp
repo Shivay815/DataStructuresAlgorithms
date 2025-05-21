@@ -1,3 +1,5 @@
+// file to creating template and syntax for best practices
+
 #include <iostream>
 
 int main() {
